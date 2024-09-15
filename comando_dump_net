@@ -1,0 +1,5 @@
+Comando para capturar tráfico de red:
+tcpdump
+
+Para más información sobre el comando:
+man tcpdump
