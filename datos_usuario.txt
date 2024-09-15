@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+Modelo_CPU=
